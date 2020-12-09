@@ -7,9 +7,9 @@ class App extends Component {
   constructor(){
     
     //sonar bug
-    let i = 0;
-    i = i++;
-    
+    // let i = 0;
+    // i = i++;
+
   }
 
   render() {
