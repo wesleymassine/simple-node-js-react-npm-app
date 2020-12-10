@@ -12,6 +12,8 @@ class App extends Component {
 
   // }
 
+  //comentario
+
   render() {
     return (
       <div className="App">
