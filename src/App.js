@@ -5,12 +5,12 @@ import './App.css';
 class App extends Component {
 
   //sonar bug
-  // constructor(){
+  constructor(){
     
-  //   let i = 0;
-  //   i = i++;
+    let i = 0;
+    i = i++;
 
-  // }
+  }
 
   //comentario
 
